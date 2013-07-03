@@ -1,0 +1,5 @@
+c:\gitoutofhere\RegWhySolution\RegWhy\bin\Debug\RegWhy.dll
+c:\gitoutofhere\RegWhySolution\RegWhy\bin\Debug\RegWhy.pdb
+c:\gitoutofhere\RegWhySolution\RegWhy\obj\Debug\RegWhy.csprojResolveAssemblyReference.cache
+c:\gitoutofhere\RegWhySolution\RegWhy\obj\Debug\RegWhy.dll
+c:\gitoutofhere\RegWhySolution\RegWhy\obj\Debug\RegWhy.pdb
